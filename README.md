@@ -53,6 +53,7 @@ ASSISTANT_ID = 'your_assistant_id'
 
 - **Soyle TTS:**
 -----
+- `soyle/tts.py` — text-to-speech
 <table>
 <tr>
 <td align="center">
@@ -78,9 +79,6 @@ ASSISTANT_ID = 'your_assistant_id'
 </td>
 </tr>
 </table>
-
-
-  - `soyle/tts.py` — text-to-speech
 
 - **Image generation:**
 
