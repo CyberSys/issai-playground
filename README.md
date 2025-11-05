@@ -50,8 +50,9 @@ ASSISTANT_ID = 'your_assistant_id'
 - **Voice processing:**
   - `soyle/auto_detected.py` — language detection (langid)
   - `soyle/transcription.py` — speech-to-text
+
+## Soyle TTS:
 -----
-- **Soyle TTS:**
 - `soyle/tts.py` — text-to-speech
 <table>
 <tr>
@@ -78,18 +79,15 @@ ASSISTANT_ID = 'your_assistant_id'
 </td>
 </tr>
 </table>
------
-- **Image generation:**
 
+##Image generation:
 -`beynele/beynele.py` — text-to-image
-
 <p align="center">
   <img src="beynele/generated_images/BayterekmonumentinAstanacyberp_1.png" alt="Bayterek in Cyberpunk Style" width="400"/>
 </p>
-
 <p align="center"><i>Example prompt: Bayterek monument in Astana, cyberpunk style</i></p>
------
-- **OCR (Optical Character Recognition)**
+
+## OCR (Optical Character Recognition)
 <p align="center"> <img src="ocr/example.png" alt="OCR Example Result" width="667"/> </p> 
 
 <p align="center"><i>Text recognition example</i></p>
