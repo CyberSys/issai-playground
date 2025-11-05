@@ -89,14 +89,14 @@ ASSISTANT_ID = 'your_assistant_id'
 
 <p align="center"><i>Bayterek monument in Astana, cyberpunk style</i></p>
 
-  - 📄 Script:`beynele/beynele.py` — text-to-image
+  -:`beynele/beynele.py` — text-to-image
 
 - **OCR (Optical Character Recognition)**
-<p align="center"> <img src="ocr/example.png" alt="OCR Example Result" width="400"/> </p> 
+<p align="center"> <img src="ocr/example.png" alt="OCR Example Result" width="667"/> </p> 
 
 <p align="center"><i>Text recognition example</i></p>
 
-  - 📄 Script: `ocr/ocr.py` — image-to-text converter
+  - `ocr/ocr.py` — image-to-text converter
   Extracts text from an uploaded image using the Mangisoz OCR API.
   ```python
   🔍 OCR Result:
