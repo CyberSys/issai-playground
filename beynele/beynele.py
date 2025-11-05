@@ -5,7 +5,7 @@ import io
 import os
 
 # --- Configuration ---
-from config import API_MAIN_BEYNELE
+from config import API_MAIN
 
 def generate_image_with_beynele(
     prompt: str,
@@ -108,7 +108,7 @@ if __name__ == "__main__":
     # Generate images via the API
     generated_images = generate_image_with_beynele(
         prompt=example_prompt, 
-        api_key=API_MAIN_BEYNELE,
+        api_key=API_MAIN,
         batch_size=1 # Set the number of images to generate (1-4)
     )
 
