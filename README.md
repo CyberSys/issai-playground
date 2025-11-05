@@ -81,7 +81,7 @@ ASSISTANT_ID = 'your_assistant_id'
 </table>
 
 ## Image generation:
--`beynele/beynele.py` — text-to-image
+- `beynele/beynele.py` — text-to-image
 <p align="center">
   <img src="beynele/generated_images/BayterekmonumentinAstanacyberp_1.png" alt="Bayterek in Cyberpunk Style" width="400"/>
 </p>
