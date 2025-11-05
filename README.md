@@ -83,13 +83,14 @@ ASSISTANT_ID = 'your_assistant_id'
   - `soyle/tts.py` — text-to-speech
 
 - **Image generation:**
+
+-`beynele/beynele.py` — text-to-image
+
 <p align="center">
   <img src="beynele/generated_images/BayterekmonumentinAstanacyberp_1.png" alt="Bayterek in Cyberpunk Style" width="400"/>
 </p>
 
-<p align="center"><i>Bayterek monument in Astana, cyberpunk style</i></p>
-
-  -:`beynele/beynele.py` — text-to-image
+<p align="center"><i>Example prompt: Bayterek monument in Astana, cyberpunk style</i></p>
 
 - **OCR (Optical Character Recognition)**
 <p align="center"> <img src="ocr/example.png" alt="OCR Example Result" width="667"/> </p> 
